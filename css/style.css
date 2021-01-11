@@ -1,0 +1,37 @@
+body {
+  background-color: #efefef;
+  color: #0e0d0d;
+}
+
+.main-title {
+  font-size: 56px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+#timer-1 {
+  display: flex;
+  font-size: 20px;
+  justify-content: space-around;
+  align-items: center;
+  padding: 150px;
+  border: 2px solid rgb(247, 9, 48);
+  border-radius: 4px;
+}
+
+.field {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 4px;
+}
+
+.value {
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.label {
+  font-size: 24px;
+}
